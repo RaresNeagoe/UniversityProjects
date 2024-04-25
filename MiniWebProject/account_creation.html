@@ -1,0 +1,20 @@
+<HTML>
+<HEAD>
+<TITLE>Pagina creare cont</TITLE>
+</HEAD>
+<BODY>
+<br><br><br><br><br><br><br><br><br>
+<center>
+<font size="5">
+Creeaza cont
+<br><br>
+<form action="http://localhost:8888/2024.04.09/new_account.php" method="post">
+Username: <input type="text" name="user" required size="20"><br><br>
+Parola:<input type="password" name="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Trebuie sa contina cel putin o cifra, o litera mica si una mare, sa aiba cel putin 8 caractere." size="20" ><br><br>
+Repeta parola:<input type="password" name="password2" required size="20" ><br><br>
+<input style="font-size:20" type="submit" value="Creeaza cont" size="10">
+</form>
+</font>
+</center>
+</BODY>
+<HTML>
