@@ -1,0 +1,14 @@
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\UserApplication\bin\Debug\UserApplication.exe.config
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\UserApplication\bin\Debug\UserApplication.exe
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\UserApplication\bin\Debug\UserApplication.pdb
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\UserApplication\obj\Debug\UserApplication.csproj.AssemblyReference.cache
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\UserApplication\obj\Debug\UserApplication.csproj.CoreCompileInputs.cache
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\UserApplication\obj\Debug\UserApplication.exe
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\UserApplication\obj\Debug\UserApplication.pdb
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\UserApplication\bin\Debug\Newtonsoft.Json.dll
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\UserApplication\bin\Debug\UserModel.dll
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\UserApplication\bin\Debug\UserModel.pdb
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\UserApplication\bin\Debug\Newtonsoft.Json.xml
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\UserApplication\obj\Debug\UserApplication.csproj.CopyComplete
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\UserApplication\bin\Debug\AppLogging.dll
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\UserApplication\bin\Debug\AppLogging.pdb

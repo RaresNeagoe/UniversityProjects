@@ -1,0 +1,6 @@
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\AppLogging\bin\Debug\AppLogging.dll
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\AppLogging\bin\Debug\AppLogging.pdb
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\AppLogging\obj\Debug\AppLogging.csproj.AssemblyReference.cache
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\AppLogging\obj\Debug\AppLogging.csproj.CoreCompileInputs.cache
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\AppLogging\obj\Debug\AppLogging.dll
+Y:\FACULTATE\MEDII SI INSTRUMENTE DE PROGRAMARE\2023.10.25\UserApplication\AppLogging\obj\Debug\AppLogging.pdb
