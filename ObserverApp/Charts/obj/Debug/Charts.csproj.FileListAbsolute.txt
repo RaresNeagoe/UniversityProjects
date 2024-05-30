@@ -1,0 +1,7 @@
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\Charts\obj\Debug\Charts.csproj.AssemblyReference.cache
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\Charts\obj\Debug\Charts.csproj.CoreCompileInputs.cache
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\Charts\bin\Debug\Charts.exe.config
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\Charts\bin\Debug\Charts.exe
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\Charts\bin\Debug\Charts.pdb
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\Charts\obj\Debug\Charts.exe
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\Charts\obj\Debug\Charts.pdb

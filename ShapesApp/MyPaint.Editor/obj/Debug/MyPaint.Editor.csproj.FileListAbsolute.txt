@@ -1,0 +1,34 @@
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\MyPaint.Editor.exe.config
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\MyPaint.Editor.exe
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\MyPaint.Editor.pdb
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint.Editor.csproj.AssemblyReference.cache
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint.Editor.Form1.resources
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint.Editor.Properties.Resources.resources
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint.Editor.csproj.GenerateResource.cache
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint.Editor.csproj.CoreCompileInputs.cache
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint.Editor.exe
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint.Editor.pdb
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\MyPaint.Business.exe
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\System.Drawing.Common.dll
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\MyPaint.Business.pdb
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\MyPaint.Business.exe.config
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\System.Drawing.Common.pdb
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\System.Drawing.Common.xml
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint.Editor.csproj.CopyComplete
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\MyPaint.Editor.exe.config
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\MyPaint.Editor.exe
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\MyPaint.Editor.pdb
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\MyPaint.Business.exe
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\System.Drawing.Common.dll
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\MyPaint.Business.pdb
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\MyPaint.Business.exe.config
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\System.Drawing.Common.pdb
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\bin\Debug\System.Drawing.Common.xml
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint.Editor.csproj.AssemblyReference.cache
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint.Editor.Form1.resources
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint.Editor.Properties.Resources.resources
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint.Editor.csproj.GenerateResource.cache
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint.Editor.csproj.CoreCompileInputs.cache
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint..FC259018.Up2Date
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint.Editor.exe
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Editor\obj\Debug\MyPaint.Editor.pdb

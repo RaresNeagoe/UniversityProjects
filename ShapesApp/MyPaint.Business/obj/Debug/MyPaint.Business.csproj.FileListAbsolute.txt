@@ -1,0 +1,22 @@
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\bin\Debug\MyPaint.Business.exe.config
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\bin\Debug\MyPaint.Business.exe
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\bin\Debug\MyPaint.Business.pdb
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\obj\Debug\MyPaint.Business.csproj.AssemblyReference.cache
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\obj\Debug\MyPaint.Business.csproj.CoreCompileInputs.cache
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\obj\Debug\MyPaint.Business.exe
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\obj\Debug\MyPaint.Business.pdb
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\bin\Debug\System.Drawing.Common.dll
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\bin\Debug\System.Drawing.Common.pdb
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\bin\Debug\System.Drawing.Common.xml
+Y:\FACULTATE\METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\obj\Debug\MyPaint.Business.csproj.CopyComplete
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\bin\Debug\MyPaint.Business.exe.config
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\bin\Debug\MyPaint.Business.exe
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\bin\Debug\MyPaint.Business.pdb
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\bin\Debug\System.Drawing.Common.dll
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\bin\Debug\System.Drawing.Common.pdb
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\bin\Debug\System.Drawing.Common.xml
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\obj\Debug\MyPaint.Business.csproj.AssemblyReference.cache
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\obj\Debug\MyPaint.Business.csproj.CoreCompileInputs.cache
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\obj\Debug\MyPaint..410C9D36.Up2Date
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\obj\Debug\MyPaint.Business.exe
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ShapesApp\MyPaint.Business\obj\Debug\MyPaint.Business.pdb

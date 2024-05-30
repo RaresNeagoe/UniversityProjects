@@ -1,0 +1,10 @@
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\UserInterface\bin\Debug\UserInterface.exe.config
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\UserInterface\bin\Debug\UserInterface.exe
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\UserInterface\bin\Debug\UserInterface.pdb
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\UserInterface\obj\Debug\UserInterface.csproj.AssemblyReference.cache
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\UserInterface\obj\Debug\UserInterface.Form1.resources
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.cache
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\UserInterface\obj\Debug\UserInterface.exe
+D:\PROIECTE METODE AVANSATE DE PROGRAMARE\ObserverApp\UserInterface\obj\Debug\UserInterface.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPaint.Business", "MyPaint.Business\MyPaint.Business.csproj", "{55D09ED2-06F4-46FC-A5E3-5DA29022A1FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPaint.Editor", "MyPaint.Editor\MyPaint.Editor.csproj", "{707A5922-ECE7-4FCC-8490-99E274CA33FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55D09ED2-06F4-46FC-A5E3-5DA29022A1FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D09ED2-06F4-46FC-A5E3-5DA29022A1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D09ED2-06F4-46FC-A5E3-5DA29022A1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D09ED2-06F4-46FC-A5E3-5DA29022A1FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707A5922-ECE7-4FCC-8490-99E274CA33FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707A5922-ECE7-4FCC-8490-99E274CA33FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707A5922-ECE7-4FCC-8490-99E274CA33FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707A5922-ECE7-4FCC-8490-99E274CA33FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C87E4017-DFD5-44BE-A986-19948BA1F21D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A7274-498B-420B-A1B0-BFAED8BD0725}|UserInterface\\UserInterface.csproj|d:\\proiecte metode avansate de programare\\observerapp\\userinterface\\piechartpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A7274-498B-420B-A1B0-BFAED8BD0725}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\piechartpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E69886-AC30-412A-B307-1A574DCB2E81}|Charts\\Charts.csproj|d:\\proiecte metode avansate de programare\\observerapp\\charts\\barchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E69886-AC30-412A-B307-1A574DCB2E81}|Charts\\Charts.csproj|solutionrelative:charts\\barchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E69886-AC30-412A-B307-1A574DCB2E81}|Charts\\Charts.csproj|d:\\proiecte metode avansate de programare\\observerapp\\charts\\storageexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E69886-AC30-412A-B307-1A574DCB2E81}|Charts\\Charts.csproj|solutionrelative:charts\\storageexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A7274-498B-420B-A1B0-BFAED8BD0725}|UserInterface\\UserInterface.csproj|d:\\proiecte metode avansate de programare\\observerapp\\userinterface\\piechartpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F89A7274-498B-420B-A1B0-BFAED8BD0725}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\piechartpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E69886-AC30-412A-B307-1A574DCB2E81}|Charts\\Charts.csproj|d:\\proiecte metode avansate de programare\\observerapp\\charts\\piechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E69886-AC30-412A-B307-1A574DCB2E81}|Charts\\Charts.csproj|solutionrelative:charts\\piechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E69886-AC30-412A-B307-1A574DCB2E81}|Charts\\Charts.csproj|d:\\proiecte metode avansate de programare\\observerapp\\charts\\observablesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E69886-AC30-412A-B307-1A574DCB2E81}|Charts\\Charts.csproj|solutionrelative:charts\\observablesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E69886-AC30-412A-B307-1A574DCB2E81}|Charts\\Charts.csproj|d:\\proiecte metode avansate de programare\\observerapp\\charts\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E69886-AC30-412A-B307-1A574DCB2E81}|Charts\\Charts.csproj|solutionrelative:charts\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A7274-498B-420B-A1B0-BFAED8BD0725}|UserInterface\\UserInterface.csproj|d:\\proiecte metode avansate de programare\\observerapp\\userinterface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A7274-498B-420B-A1B0-BFAED8BD0725}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E69886-AC30-412A-B307-1A574DCB2E81}|Charts\\Charts.csproj|d:\\proiecte metode avansate de programare\\observerapp\\charts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E69886-AC30-412A-B307-1A574DCB2E81}|Charts\\Charts.csproj|solutionrelative:charts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A7274-498B-420B-A1B0-BFAED8BD0725}|UserInterface\\UserInterface.csproj|d:\\proiecte metode avansate de programare\\observerapp\\userinterface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F89A7274-498B-420B-A1B0-BFAED8BD0725}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PieChart.cs",
+              "DocumentMoniker": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\Charts\\PieChart.cs",
+              "RelativeDocumentMoniker": "Charts\\PieChart.cs",
+              "ToolTip": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\Charts\\PieChart.cs",
+              "RelativeToolTip": "Charts\\PieChart.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:04:14.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PieChartPanel.cs [Design]",
+              "DocumentMoniker": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\UserInterface\\PieChartPanel.cs",
+              "RelativeDocumentMoniker": "UserInterface\\PieChartPanel.cs",
+              "ToolTip": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\UserInterface\\PieChartPanel.cs [Design]",
+              "RelativeToolTip": "UserInterface\\PieChartPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:53:48.432Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\UserInterface\\Form1.cs",
+              "RelativeDocumentMoniker": "UserInterface\\Form1.cs",
+              "ToolTip": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\UserInterface\\Form1.cs",
+              "RelativeToolTip": "UserInterface\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:29:47.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PieChartPanel.cs",
+              "DocumentMoniker": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\UserInterface\\PieChartPanel.cs",
+              "RelativeDocumentMoniker": "UserInterface\\PieChartPanel.cs",
+              "ToolTip": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\UserInterface\\PieChartPanel.cs",
+              "RelativeToolTip": "UserInterface\\PieChartPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:44:18.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BarChart.cs",
+              "DocumentMoniker": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\Charts\\BarChart.cs",
+              "RelativeDocumentMoniker": "Charts\\BarChart.cs",
+              "ToolTip": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\Charts\\BarChart.cs",
+              "RelativeToolTip": "Charts\\BarChart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:05:49.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StorageExplorer.cs",
+              "DocumentMoniker": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\Charts\\StorageExplorer.cs",
+              "RelativeDocumentMoniker": "Charts\\StorageExplorer.cs",
+              "ToolTip": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\Charts\\StorageExplorer.cs",
+              "RelativeToolTip": "Charts\\StorageExplorer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:59:57.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObservableSubject.cs",
+              "DocumentMoniker": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\Charts\\ObservableSubject.cs",
+              "RelativeDocumentMoniker": "Charts\\ObservableSubject.cs",
+              "ToolTip": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\Charts\\ObservableSubject.cs",
+              "RelativeToolTip": "Charts\\ObservableSubject.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:20:03.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\Charts\\IObserver.cs",
+              "RelativeDocumentMoniker": "Charts\\IObserver.cs",
+              "ToolTip": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\Charts\\IObserver.cs",
+              "RelativeToolTip": "Charts\\IObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:16:55.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\Charts\\Program.cs",
+              "RelativeDocumentMoniker": "Charts\\Program.cs",
+              "ToolTip": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\Charts\\Program.cs",
+              "RelativeToolTip": "Charts\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:51:01.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\UserInterface\\Form1.cs",
+              "RelativeDocumentMoniker": "UserInterface\\Form1.cs",
+              "ToolTip": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\ObserverApp\\UserInterface\\Form1.cs [Design]",
+              "RelativeToolTip": "UserInterface\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:10:20.881Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

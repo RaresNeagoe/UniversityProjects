@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\XMLApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72F87A-6805-46DA-9A32-09BBB06ED279}|XMLApp\\XMLApp.csproj|d:\\proiecte metode avansate de programare\\xmlapp\\xmlapp\\xtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72F87A-6805-46DA-9A32-09BBB06ED279}|XMLApp\\XMLApp.csproj|solutionrelative:xmlapp\\xtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72F87A-6805-46DA-9A32-09BBB06ED279}|XMLApp\\XMLApp.csproj|d:\\proiecte metode avansate de programare\\xmlapp\\xmlapp\\ixelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72F87A-6805-46DA-9A32-09BBB06ED279}|XMLApp\\XMLApp.csproj|solutionrelative:xmlapp\\ixelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72F87A-6805-46DA-9A32-09BBB06ED279}|XMLApp\\XMLApp.csproj|d:\\proiecte metode avansate de programare\\xmlapp\\xmlapp\\xattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72F87A-6805-46DA-9A32-09BBB06ED279}|XMLApp\\XMLApp.csproj|solutionrelative:xmlapp\\xattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72F87A-6805-46DA-9A32-09BBB06ED279}|XMLApp\\XMLApp.csproj|d:\\proiecte metode avansate de programare\\xmlapp\\xmlapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72F87A-6805-46DA-9A32-09BBB06ED279}|XMLApp\\XMLApp.csproj|solutionrelative:xmlapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72F87A-6805-46DA-9A32-09BBB06ED279}|XMLApp\\XMLApp.csproj|d:\\proiecte metode avansate de programare\\xmlapp\\xmlapp\\xelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72F87A-6805-46DA-9A32-09BBB06ED279}|XMLApp\\XMLApp.csproj|solutionrelative:xmlapp\\xelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XText.cs",
+              "DocumentMoniker": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\XMLApp\\XMLApp\\XText.cs",
+              "RelativeDocumentMoniker": "XMLApp\\XText.cs",
+              "ToolTip": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\XMLApp\\XMLApp\\XText.cs",
+              "RelativeToolTip": "XMLApp\\XText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:37:27.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IXElement.cs",
+              "DocumentMoniker": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\XMLApp\\XMLApp\\IXElement.cs",
+              "RelativeDocumentMoniker": "XMLApp\\IXElement.cs",
+              "ToolTip": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\XMLApp\\XMLApp\\IXElement.cs",
+              "RelativeToolTip": "XMLApp\\IXElement.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:36:43.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\XMLApp\\XMLApp\\Program.cs",
+              "RelativeDocumentMoniker": "XMLApp\\Program.cs",
+              "ToolTip": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\XMLApp\\XMLApp\\Program.cs",
+              "RelativeToolTip": "XMLApp\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:35:58.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XAttribute.cs",
+              "DocumentMoniker": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\XMLApp\\XMLApp\\XAttribute.cs",
+              "RelativeDocumentMoniker": "XMLApp\\XAttribute.cs",
+              "ToolTip": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\XMLApp\\XMLApp\\XAttribute.cs",
+              "RelativeToolTip": "XMLApp\\XAttribute.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:38:23.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XElement.cs",
+              "DocumentMoniker": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\XMLApp\\XMLApp\\XElement.cs",
+              "RelativeDocumentMoniker": "XMLApp\\XElement.cs",
+              "ToolTip": "D:\\PROIECTE METODE AVANSATE DE PROGRAMARE\\XMLApp\\XMLApp\\XElement.cs",
+              "RelativeToolTip": "XMLApp\\XElement.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswC0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:40:05.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
